@@ -15,7 +15,7 @@ The list of users and configuration settings are managed via `appsettings.json`.
 
 ## Configuration
 
-Create or edit the `appsettings.json` in the project root:
+Create or edit the `appsettings.json` in the project root. **UsersToChange** is ID equal to fkidextenstion from database.
 
 ```json
 {
